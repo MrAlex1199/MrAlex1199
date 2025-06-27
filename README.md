@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MrAlex1199
+- 👋 Hi, I'm Krittapas NickName Boss Just call me Alex for shot
 - 👀 I’m interested programming
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love cat😺
+- 🌱 I’m currently learning Golang
+- 📫 How to reach me on X @Bosszar3
+- ⚡ Fun fact: I love cat so much😺
 
 <!---
 MrAlex1199/MrAlex1199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
