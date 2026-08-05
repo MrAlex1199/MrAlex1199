@@ -10,8 +10,6 @@
 
 <!-- Visitor Counter & Badges -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MrAlex1199/count.svg" alt="Visitors Counter" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/MrAlex1199?label=FOLLOWERS&logo=github&style=for-the-badge&color=7b2cbf" alt="Followers" />
   <img src="https://img.shields.io/github/stars/MrAlex1199?label=TOTAL%20STARS&logo=github&style=for-the-badge&color=ff007f" alt="Total Stars" />
 </p>
