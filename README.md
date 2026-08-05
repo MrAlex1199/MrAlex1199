@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,25,50&height=280&section=header&text=✨%20Welcome%20to%20Krittapas%20(Alex)%20✨&fontSize=40&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Golang%20Enthusiast%20%7C%20Cat%20Lover%20😺&descSize=18&descAlign=50&descAlignY=62" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=👋+Hi!+I'm+Krittapas+(Boss+%2F+Alex);🚀+Full-Stack+Developer+%26+Software+Engineer;🐹+Passionate+About+Golang+%26+Backend+Systems;😸+Cat+Lover+%26+Tech+Innovator" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%20there!%20I'm%20Krittapas%20(Alex);Full-Stack%20Developer%20%26%20Software%20Engineer;Passionate%20about%20Golang%20%26%20Backend;Cat%20Lover%20%26%20Tech%20Innovator)](https://git.io/typing-svg)
 
 <br/><br/>
 
