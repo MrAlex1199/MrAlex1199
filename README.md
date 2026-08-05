@@ -10,7 +10,8 @@
 
 <!-- Visitor Counter & Badges -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrAlex1199&count_bg=%2300F5FF&title_bg=%2320232A&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Visitors" />
+  <img src="https://profile-counter.glitch.me/MrAlex1199/count.svg" alt="Visitors Counter" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/MrAlex1199?label=FOLLOWERS&logo=github&style=for-the-badge&color=7b2cbf" alt="Followers" />
   <img src="https://img.shields.io/github/stars/MrAlex1199?label=TOTAL%20STARS&logo=github&style=for-the-badge&color=ff007f" alt="Total Stars" />
 </p>
@@ -87,14 +88,9 @@ fun_fact: "I love cats so much! 😺🐾"
 
 ---
 
-### 📊 GitHub Analytics & Performance
+### 📊 GitHub Analytics & Streak Performance
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrAlex1199&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlex1199&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
-  </p>
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlex1199&theme=tokyonight" width="98%" alt="GitHub Streak" />
 </div>
 
