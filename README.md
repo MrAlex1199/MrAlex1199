@@ -19,10 +19,12 @@
 
 ---
 
-### 🌟 GitHub Trophies
+### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrAlex1199&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/MrAlex1199">
+    <img src="https://github-profile-trophy.vercel.app/?username=MrAlex1199&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -136,6 +138,7 @@ fun_fact: "I love cats so much! 😺🐾"
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
 </a>
 <a href="https://github.com/MrAlex1199">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlex1199&theme=tokyonight" alt="" style="display:none;" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
