@@ -90,18 +90,12 @@ fun_fact: "I love cats so much! 😺🐾"
 ### 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrAlex1199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlex1199&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlex1199&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrAlex1199&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlex1199&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
+  </p>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlex1199&theme=tokyonight" width="98%" alt="GitHub Streak" />
 </div>
 
 ---
